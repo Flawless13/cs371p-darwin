@@ -321,7 +321,6 @@ struct TestDarwin : CppUnit::TestFixture
     CPPUNIT_TEST_SUITE_END();
   };
   
-  
 // ----
 // main
 // ----
