@@ -9,7 +9,7 @@ Last Name: Sullivan
 EID: sas5294
 E-mail: sas@fsullivans.net
 Estimated number of hours: 15
-Actual    number of hours:
+Actual    number of hours: 20
 
 Partner First Name:
 Partner Last Name:
